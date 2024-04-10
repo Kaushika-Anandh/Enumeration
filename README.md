@@ -73,5 +73,5 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ![](12.PNG)
 
 ## RESULT:
-The Google hacking keywords and enumeration tools were identified and executed successfully
+The Google hacking keywords and enumeration tools were identified and executed successfully.
 
